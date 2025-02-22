@@ -1,5 +1,31 @@
 ![Build](https://github.com/ioquake/ioq3/workflows/Build/badge.svg)
 
+The mod is based on ioquake3, since was the only version I succesfully compiled with modifications and is usually widely recommended anyway.
+
+THE GOAL OF THE MOD:
+1. PUSH THE GAMEPLAY A BIT MORE TOWARDS REALISM
+2. BALANCE THE GAMEPLAY IN SUCH A WAY THAT NON QUAKE PLAYERS HAVE A CHANCE AT MAKING FRAGS OR POINTS EVEN WITHOUT MASTERING QUAKE MECHANICS, LIKE SKILLFUL STRAFEJUMPS AND DODGING OR CRAZY TIMING BY THE CLOCK.
+3. PLEASE BE AWARE THAT YOU STILL NEED TO HAVE AT LEAST A DECENT SKILL IN TERMS OF GENERAL FPS PLAY OR EXPRESSION, ELSE YOU WILL BE MAULED EVEN WITH THIS MOD
+4. FINAL OBSERVATION, THIS MOD IS NOT FOR COMPETITIVE PLAYERS, BUT FOR THOSE WHO JUST WANT TO HAVE A LAUGH AT STUPID SITUATIONS IF THE RANDOM DAMAGE MAKE THEM LOSE POINTS, IN A SENSE LIKE IN POKER, WHERE YOU CAN PUT THE BLAME ON LUCK INSTEAD OF ACUSING YOURSELF OF BAD PLAY. IF YOU ATTEMPT THE GAME WITH A COMPETITIVE MINDSET PLEASE BE AWARE THAT THE GAME CAN BE VERY TAXING, SO DON'T BLAME ME. FOR THOSE WHO WANT TO GET GOOD AND COMPETE THERE ARE OUTTHERE ALREADY THE ESTABLISHED COMPETITIVE GAMES AND MODS
+
+Modifications:
+-machinegun deals 1 in 4 or 5 bullets damage between 0 and 180, but to compensate the amount of ammo is limited to maximum 40 bullets. The goal of the machinegun is to use it in desperate situations or with blind fire covering fire tactics in mind
+-railgun deals 150 damage directly through armor, like a penetrating mortal scifi weapon should act. Counter balance, weapon itself does not give any ammo (slugs) so you have to pick up ammo separately to use it. Second, the ammo for railgun is limited to 1. So the only way you can use it for two consecutive shots is if you picked up 1 slug already and also the railgun, and shoot the railgun while staying close to ammo so you can pick up a new slug.
+-lightninggun deals double damage versus armored players, because electricity and scify
+-rockets deal massive damage around 140 for direct hits, to compensate skillful rocket use. Counter balance radius damage is lower by about 20 percent and size of radius is increased
+-shotgun deals about 120 damage spread and range are reduced. Now you can build defensive stategies with the shotgun
+-gauntlet deals 120 damage instead 70, to balance the scarcity of mg bullets
+-plasmagun fires double the normal rate and can have up to 60 ammo, to encourage brain tactics and positioning versus pure aim and godlike strafejumps, but also is a spam weapon now, so again you can curse the anti-competitive nature of the mod
+-picking more than 2 weapons or more than 40 armor adds a delay to jumps so strafejumping is not possible anymore (unless some bugs are found and exploited), and picking up more than 180 armor or something disables jumping altogether; movement speed is also slightly reduced based on amount of carrying 
+-falling damage increased for long distances, so no more jumping 3 levels below to harass the player out of control, while you are wearing 200 kg armors
+-items spawn time increased, weapons about 30s like in Quake2 and mega and armors more
+
+To Be Done: making spawming powerups based on random times interval instead fixed timing so that clock players cannot dominate, shards will give immunity to railgun shots, each railgun shot destroying 2 or 3 shards, direct rocket hits will deal more damage versus armor than againts no armor because penetrated iron will hurt the flesh, like in reality when a rocket hits inside a tank, while splash damage will deal reduced damage to armor and no damage against over 150 armor, others as I think more about them.
+
+Why this mod? Is mainly for me own personal pleasure. I play it a lot. 
+
+original ioq3 files below::::
+
                    ,---------------------------------------.
                    |   _                     _       ____  |
                    |  (_)___  __ _ _  _ __ _| |_____|__ /  |
